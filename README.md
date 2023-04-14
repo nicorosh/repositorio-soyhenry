@@ -1,2 +1,1 @@
-# repositorio-soyhenry
-este es el ultimo repositorio que hago
+este es el ultimo repositorio que hago, estoy aprendiendo a como crear o clonar un repositorio
